@@ -1,0 +1,46 @@
+C:\Users\AkbarDes\Downloads\Toko-master (1)\Toko-master\Toko\bin\Debug\netcoreapp3.1\Toko.exe
+C:\Users\AkbarDes\Downloads\Toko-master (1)\Toko-master\Toko\bin\Debug\netcoreapp3.1\Toko.deps.json
+C:\Users\AkbarDes\Downloads\Toko-master (1)\Toko-master\Toko\bin\Debug\netcoreapp3.1\Toko.runtimeconfig.json
+C:\Users\AkbarDes\Downloads\Toko-master (1)\Toko-master\Toko\bin\Debug\netcoreapp3.1\Toko.runtimeconfig.dev.json
+C:\Users\AkbarDes\Downloads\Toko-master (1)\Toko-master\Toko\bin\Debug\netcoreapp3.1\Toko.dll
+C:\Users\AkbarDes\Downloads\Toko-master (1)\Toko-master\Toko\bin\Debug\netcoreapp3.1\Toko.pdb
+C:\Users\AkbarDes\Downloads\Toko-master (1)\Toko-master\Toko\obj\Debug\netcoreapp3.1\Toko.csprojAssemblyReference.cache
+C:\Users\AkbarDes\Downloads\Toko-master (1)\Toko-master\Toko\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\AkbarDes\Downloads\Toko-master (1)\Toko-master\Toko\obj\Debug\netcoreapp3.1\Menu.g.cs
+C:\Users\AkbarDes\Downloads\Toko-master (1)\Toko-master\Toko\obj\Debug\netcoreapp3.1\Promo.g.cs
+C:\Users\AkbarDes\Downloads\Toko-master (1)\Toko-master\Toko\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\AkbarDes\Downloads\Toko-master (1)\Toko-master\Toko\obj\Debug\netcoreapp3.1\Toko_MarkupCompile.cache
+C:\Users\AkbarDes\Downloads\Toko-master (1)\Toko-master\Toko\obj\Debug\netcoreapp3.1\Toko_MarkupCompile.lref
+C:\Users\AkbarDes\Downloads\Toko-master (1)\Toko-master\Toko\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\AkbarDes\Downloads\Toko-master (1)\Toko-master\Toko\obj\Debug\netcoreapp3.1\Menu.baml
+C:\Users\AkbarDes\Downloads\Toko-master (1)\Toko-master\Toko\obj\Debug\netcoreapp3.1\Promo.baml
+C:\Users\AkbarDes\Downloads\Toko-master (1)\Toko-master\Toko\obj\Debug\netcoreapp3.1\Toko.g.resources
+C:\Users\AkbarDes\Downloads\Toko-master (1)\Toko-master\Toko\obj\Debug\netcoreapp3.1\Toko.AssemblyInfoInputs.cache
+C:\Users\AkbarDes\Downloads\Toko-master (1)\Toko-master\Toko\obj\Debug\netcoreapp3.1\Toko.AssemblyInfo.cs
+C:\Users\AkbarDes\Downloads\Toko-master (1)\Toko-master\Toko\obj\Debug\netcoreapp3.1\Toko.csproj.CoreCompileInputs.cache
+C:\Users\AkbarDes\Downloads\Toko-master (1)\Toko-master\Toko\obj\Debug\netcoreapp3.1\Toko.dll
+C:\Users\AkbarDes\Downloads\Toko-master (1)\Toko-master\Toko\obj\Debug\netcoreapp3.1\Toko.pdb
+C:\Users\AkbarDes\Downloads\Toko-master (1)\Toko-master\Toko\obj\Debug\netcoreapp3.1\Toko.genruntimeconfig.cache
+E:\Kampus\Program\Toko-master\Toko\bin\Debug\netcoreapp3.1\Toko.exe
+E:\Kampus\Program\Toko-master\Toko\bin\Debug\netcoreapp3.1\Toko.deps.json
+E:\Kampus\Program\Toko-master\Toko\bin\Debug\netcoreapp3.1\Toko.runtimeconfig.json
+E:\Kampus\Program\Toko-master\Toko\bin\Debug\netcoreapp3.1\Toko.runtimeconfig.dev.json
+E:\Kampus\Program\Toko-master\Toko\bin\Debug\netcoreapp3.1\Toko.dll
+E:\Kampus\Program\Toko-master\Toko\bin\Debug\netcoreapp3.1\Toko.pdb
+E:\Kampus\Program\Toko-master\Toko\obj\Debug\netcoreapp3.1\Toko.csprojAssemblyReference.cache
+E:\Kampus\Program\Toko-master\Toko\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\Kampus\Program\Toko-master\Toko\obj\Debug\netcoreapp3.1\Menu.g.cs
+E:\Kampus\Program\Toko-master\Toko\obj\Debug\netcoreapp3.1\Promo.g.cs
+E:\Kampus\Program\Toko-master\Toko\obj\Debug\netcoreapp3.1\App.g.cs
+E:\Kampus\Program\Toko-master\Toko\obj\Debug\netcoreapp3.1\Toko_MarkupCompile.cache
+E:\Kampus\Program\Toko-master\Toko\obj\Debug\netcoreapp3.1\Toko_MarkupCompile.lref
+E:\Kampus\Program\Toko-master\Toko\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\Kampus\Program\Toko-master\Toko\obj\Debug\netcoreapp3.1\Menu.baml
+E:\Kampus\Program\Toko-master\Toko\obj\Debug\netcoreapp3.1\Promo.baml
+E:\Kampus\Program\Toko-master\Toko\obj\Debug\netcoreapp3.1\Toko.g.resources
+E:\Kampus\Program\Toko-master\Toko\obj\Debug\netcoreapp3.1\Toko.AssemblyInfoInputs.cache
+E:\Kampus\Program\Toko-master\Toko\obj\Debug\netcoreapp3.1\Toko.AssemblyInfo.cs
+E:\Kampus\Program\Toko-master\Toko\obj\Debug\netcoreapp3.1\Toko.csproj.CoreCompileInputs.cache
+E:\Kampus\Program\Toko-master\Toko\obj\Debug\netcoreapp3.1\Toko.dll
+E:\Kampus\Program\Toko-master\Toko\obj\Debug\netcoreapp3.1\Toko.pdb
+E:\Kampus\Program\Toko-master\Toko\obj\Debug\netcoreapp3.1\Toko.genruntimeconfig.cache
